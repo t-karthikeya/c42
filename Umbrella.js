@@ -9,9 +9,7 @@ class Umbrella {
         World.add(world, this.umbrella)
         this.image1 = loadImage("bat/Bestman-01.png");
         this.Visiblity1 = 0;
-        this.image2 = loadImage("cloud.png");
-        this.Visiblity = 0;
-        this.image3 = loadImage("Walking Frame/batman.png");
+       
         
     }
 
